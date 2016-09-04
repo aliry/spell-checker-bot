@@ -1,0 +1,30 @@
+{
+  "name": "spell-check-bot",
+  "version": "1.0.0",
+  "description": "A spell/grammer checker and corrector bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aliry/spell-checker-bot.git"
+  },
+  "keywords": [
+    "bot",
+    "spell",
+    "check"
+  ],
+  "author": "Ali Roudaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aliry/spell-checker-bot/issues"
+  },
+  "homepage": "https://github.com/aliry/spell-checker-bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "jquery-param": "^0.2.0",
+    "najax": "^0.7.1",
+    "restify": "^4.1.1"
+  }
+}
